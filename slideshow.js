@@ -7,42 +7,27 @@ $(document).ready(function () {
 
     {
       name: 'ogu',
-      link: 'https://ogu.gg/55',
+      link: 'https://ogu.gg/etuv',
     },
     
     {
-      name: 'namemc',
-      link: 'https://namemc.com/pockk.2',
-    },
-
-    {
-      name: 'soundcloud',
-      link: 'https://soundcloud.com/hoglin',
-    },
-
-    {
       name: 'telegram',
-      link: 'https://t.me/propellor',
+      link: 'https://t.me/weenier',
     },
     
     {
       name: 'tiktok',
-      link: 'https://tiktok.com/@p_ck',
+      link: 'https://tiktok.com/@uula',
     },
 
     {
       name: 'twitter',
-      link: 'https://twitter.com/ohub',
+      link: 'https://twitter.com/420mq420',
     },
 
     {
       name: 'xbox',
-      link: 'https://xboxgamertag.com/search/micronesia',
-    },
-
-    {
-      name: 'twitch',
-      link: 'https://twitch.tv/thorns',
+      link: 'https://xboxgamertag.com/search/sdn3',
     },
 
 
