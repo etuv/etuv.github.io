@@ -3,7 +3,7 @@
   src: url(derk.otf);
 }
   html {
-  cursor: url('../images/cursor.png'), default;
+  cursor: url('cursor.png'), default;
   font-family: mono;
 }
 *, *::after, *::before {
@@ -42,7 +42,7 @@ body {
   color: rgb(255, 255, 255);
   font-size: 2.5rem;
   user-select: none;
-  cursor: url("../images/cursor.png"), default;
+  cursor: url("cursor.png"), default;
 }
 .no-hover {
   display: block;
@@ -61,7 +61,7 @@ body {
 .text-content h1 {
   font-size: 4rem;
   font-weight: 800;
-  letter-spacing: 25px;
+  letter-spacing: 0px;
   margin-left: 25px;
   user-select: none;
 }
@@ -78,7 +78,7 @@ body {
   color:#fff!important;
 }
 a {
-  cursor: url("../images/cursor.png"), default;
+  cursor: url("cursor.png"), default;
   text-decoration:wavy;
   color:rgb(255, 255, 255)!important;
   text-shadow: 0 0 0.40em #98c4fa;
