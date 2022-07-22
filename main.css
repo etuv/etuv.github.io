@@ -125,7 +125,7 @@ span::before {
   animation-duration: 500ms;
 }
 #pattern {
-  background: transparent url('../images/dot-overlay.png') repeat 0 0;
+  background: transparent url('dot-overlay.png') repeat 0 0;
   top: 0;
   left: 0;
   margin: 0;
