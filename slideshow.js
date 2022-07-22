@@ -1,10 +1,6 @@
 $(document).ready(function () {
   var links = [
-    {
-      name: 'discord',
-      link: 'https://discord.com/users/746411175494811688',
-    },
-
+ 
     {
       name: 'ogu',
       link: 'https://ogu.gg/etuv',
@@ -26,8 +22,8 @@ $(document).ready(function () {
     },
 
     {
-      name: 'xbox',
-      link: 'https://xboxgamertag.com/search/sdn3',
+      name: 'email',
+      link: 'https://mailto:nave@live.jp',
     },
 
 
