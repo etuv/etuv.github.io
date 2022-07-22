@@ -1,6 +1,6 @@
 @font-face {
   font-family: courier_regular;
-  src: url('../fonts/Consolas.ttf');
+  src: url('..Consolas.ttf');
 }
 
 .marquee-container {
