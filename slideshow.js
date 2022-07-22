@@ -23,7 +23,7 @@ $(document).ready(function () {
 
     {
       name: 'email',
-      link: 'https://mailto:nave@live.jp',
+      link: 'mailto:nave@live.jp',
     },
 
 
