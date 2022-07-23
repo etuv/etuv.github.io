@@ -62,7 +62,7 @@ body {
   font-size: 4rem;
   font-weight: 800;
   letter-spacing: 0px;
-  margin-left: 25px;
+  margin-left: 0px;
   user-select: none;
 }
 .socials {
@@ -85,7 +85,7 @@ a {
 }
 a:hover {
   transition:.4s!important;
-  color:rgb(239, 212, 123)!important;
+  color:rgb(128, 49, 100)!important;
   text-shadow: 0 0 0.40em rgb(239, 212, 123);
 }
 span::before {
