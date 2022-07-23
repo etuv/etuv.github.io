@@ -81,7 +81,7 @@ a {
   cursor: url("cursor.png"), default;
   text-decoration:wavy;
   color:rgb(255, 255, 255)!important;
-  text-shadow: 0 0 0.40em #98c4fa;
+  text-shadow: 0 0 0.40em #803164;
 }
 a:hover {
   transition:.4s!important;
@@ -94,7 +94,7 @@ span::before {
 }
 .fullscreen a {
   color:#fff!important;
-  text-shadow: 0 0 0.40em #efd47b;
+  text-shadow: 0 0 0.40em #803164;
 }
 .fullscreen a:hover {
   transition:.4s!important;
