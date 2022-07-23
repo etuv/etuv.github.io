@@ -21,7 +21,7 @@ html {
   padding: 0;
 }
 body {
-  background: rgb(17, 17, 17);
+  background: rgb(128, 49, 100);
 }
 .back {
   width: 100%;
@@ -39,7 +39,7 @@ body {
   place-items: center;
   width: 100vw;
   height: 100vw;
-  color: rgb(255, 255, 255);
+  color: rgb(128, 49, 100);
   font-size: 2.5rem;
   user-select: none;
   cursor: url("cursor.png"), default;
@@ -73,14 +73,14 @@ body {
   z-index: -2;
 }
 body {
-  font-family: derk; text-shadow: 0 0 0.40em #fff;
-  background-color:#000!important;
+  font-family: derk; text-shadow: 0 0 0.40em #803164;
+  background-color:#803164!important;
   color:#fff!important;
 }
 a {
   cursor: url("cursor.png"), default;
   text-decoration:wavy;
-  color:rgb(255, 255, 255)!important;
+  color:rgb(128, 49, 100)!important;
   text-shadow: 0 0 0.40em #803164;
 }
 a:hover {
@@ -93,13 +93,13 @@ span::before {
   white-space:pre
 }
 .fullscreen a {
-  color:#fff!important;
+  color:#803164!important;
   text-shadow: 0 0 0.40em #803164;
 }
 .fullscreen a:hover {
   transition:.4s!important;
-  color:rgb(239, 212, 123)!important;
-  text-shadow: 0 0 0.40em rgb(239, 212, 123);
+  color:rgb(128, 49, 100)!important;
+  text-shadow: 0 0 0.40em rgb(128, 49, 100);
 }
 #center {
   position:absolute;
